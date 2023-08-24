@@ -10,7 +10,7 @@
 
 <h3 align="left">⚙️ Tech stack: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,nodejs,mongodb,php,mysql,postman,py,cpp,raspberrypi,arduino,visualstudio,vscode,figma,git,github&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,nodejs,mongodb,php,mysql,postman,py,cpp,raspberrypi,arduino,visualstudio,vscode,figma,git,github&perline=10)](https://skillicons.dev)
 
 <h3 align="left">📊 Github stats: </h3>
 
